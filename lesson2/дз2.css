@@ -1,0 +1,21 @@
+
+#frame
+{
+    width: 1000px; /* Ширина */
+    background-color: rgba(24, 61, 61, 0.71); /* цвет фона */
+    margin: auto; /* Выравнивание по центру */
+    display: table; /* Представление в форме таблицы */
+    height: 100%; /* Высота */
+}
+
+
+
+#inMenu
+{
+    float: left;
+    font-size: 20px;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    background: rgba(134, 183, 183, 0.75);
+    margin: 25px 10px 10px;
+}
